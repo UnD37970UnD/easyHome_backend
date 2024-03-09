@@ -1,0 +1,169 @@
+[
+    {
+        "region_name":"Bucuresti",
+        "region_id": 46
+    },
+    {
+        "region_name":"Alba",
+        "region_id": 28
+    },
+    {
+        "region_name":"Arad",
+        "region_id": 1
+    },
+    {
+        "region_name":"Arges",
+        "region_id": 11
+    },
+    {
+        "region_name":"Bacau",
+        "region_id": 3
+    },
+    {
+        "region_name":"Bihor",
+        "region_id": 19
+    },
+    {
+        "region_name":"Bistrita-Nasaud",
+        "region_id": 21
+    },
+    {
+        "region_name":"Botosani",
+        "region_id": 18
+    },
+    {
+        "region_name":"Braila",
+        "region_id": 37
+    },
+    {
+        "region_name":"Brasov",
+        "region_id": 4
+    },
+    {
+        "region_name":"Buzau",
+        "region_id": 36
+    },
+    {
+        "region_name":"Calarasi",
+        "region_id": 40
+    },
+    {
+        "region_name":"Caras-Severin",
+        "region_id": 26
+    },
+    {
+        "region_name":"Cluj",
+        "region_id": 2
+    },
+    {
+        "region_name":"Covasna",
+        "region_id": 29
+    },
+    {
+        "region_name":"Constanta",
+        "region_id": 7
+    },
+    {
+        "region_name":"Dambovita",
+        "region_id": 35
+    },
+    {
+        "region_name":"Dolj",
+        "region_id": 8
+    },
+    {
+        "region_name":"Galati",
+        "region_id": 9
+    },
+    {
+        "region_name":"Giurgiu",
+        "region_id": 41
+    },
+    {
+        "region_name":"Gorj",
+        "region_id": 33
+    },
+    {
+        "region_name":"Hargita",
+        "region_id": 23
+    },
+    {
+        "region_name":"Hunedoara",
+        "region_id": 27
+    },
+    {
+        "region_name":"Ialomita",
+        "region_id": 39
+    },
+    {
+        "region_name":"Iasi",
+        "region_id": 10
+    },
+    {
+        "region_name":"Maramures",
+        "region_id": 16
+    },
+    {
+        "region_name":"Mehedinti",
+        "region_id": 32
+    },
+    {
+        "region_name":"Mures",
+        "region_id": 22
+    },
+    {
+        "region_name":"Neamt",
+        "region_id": 24
+    },
+    {
+        "region_name":"Olt",
+        "region_id": 43
+    },
+    {
+        "region_name":"Prahova",
+        "region_id": 6
+    },
+    {
+        "region_name":"Satu Mare",
+        "region_id": 15
+    },
+    {
+        "region_name":"Sibiu",
+        "region_id": 12
+    },
+    {
+        "region_name":"Suceava",
+        "region_id": 17
+    },
+    {
+        "region_name":"Teleorman",
+        "region_id": 42
+    },
+    {
+        "region_name":"Timis",
+        "region_id": 13
+    },
+    {
+        "region_name":"Tulcea",
+        "region_id": 38
+    },
+    {
+        "region_name":"Valcea",
+        "region_id": 34
+    },
+    {
+        "region_name":"Vaslui",
+        "region_id": 30
+    },
+    {
+        "region_name":"Vrancea",
+        "region_id": 31
+    },
+    {
+        "region_name":"Ilfov"
+    },
+    {
+        "region_name": "Salaj"
+    }
+    
+]
